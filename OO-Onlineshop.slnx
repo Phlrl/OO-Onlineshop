@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OO-Onlineshop.Tests/OO-Onlineshop.Tests.csproj" />
+  <Project Path="OO-Onlineshop/OO-Onlineshop.csproj" />
+</Solution>
